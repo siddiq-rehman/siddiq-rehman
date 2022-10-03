@@ -2,7 +2,7 @@
 - 👀 I’m interested in any topics related to Javascript
 - 🌱 I’m currently learning how to contribute and triage open source projects
 - 💞️ I’m looking to collaborate on Nodejs
-- 📫 How to reach me https://twitter.com/siddiqr67
+- 📫 How to reach me https://twitter.com/siddiqr67 and also I do my write ups at https://medium.com/@siddiqr67
 
 <!---
 siddiq-rehman/siddiq-rehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
